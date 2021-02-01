@@ -5,7 +5,6 @@
 
 I prefer React & React Native for web/mobile front-end, Node.js & Django technologies for back-end development.
 <br/>
-
 🔭 I’m currently working on back-end development
 
 🌱 I’m currently learning Node.js | MongoDB | Django
@@ -16,6 +15,7 @@ I prefer React & React Native for web/mobile front-end, Node.js & Django technol
 
 - 💬 Ask  me about anything that you want to learn
 
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meltem-karaagac/)
 ## Knowledge always in my scope !!! 
 
 ## 🚀 Skills
