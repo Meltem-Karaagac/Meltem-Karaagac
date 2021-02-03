@@ -44,4 +44,6 @@ I prefer React & React Native for web/mobile front-end, Node.js & Django technol
 
 ## 📈 Statistics
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Meltem-Karaagac" alt="visitor counter" width="20%"/> </p>
+<p align="left">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Meltem-Karaagac" alt="visitor counter" width="20%"/> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meltem-Karaagac&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
