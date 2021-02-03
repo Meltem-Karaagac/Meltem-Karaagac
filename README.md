@@ -6,9 +6,7 @@
 I prefer React & React Native for web/mobile front-end, Node.js & Django technologies for back-end development.
 <br/>
 🔭 I’m currently working on back-end development
-
 🌱 I’m currently learning Node.js | MongoDB | Django
-
 🛠 Skills<br/>
 
 - HTML5, CSS3, JavaScript, React, React Native, Python, SQL, Node.js, Express.js, MongoDB, Django, Git, GitHub
