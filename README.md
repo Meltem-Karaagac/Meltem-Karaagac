@@ -16,6 +16,7 @@ I prefer React & React Native for web/mobile front-end, Node.js & Django technol
 - 💬 Ask  me about anything that you want to learn
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meltem-karaagac/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Meltem-Karaagac" alt="visitor counter" width="20%"/> </p>
 ## Knowledge always in my scope !!! 
 
 ## 🚀 Skills
@@ -43,7 +44,7 @@ I prefer React & React Native for web/mobile front-end, Node.js & Django technol
 </p>
 
 ## 📈 Statistics
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Meltem-Karaagac" alt="visitor counter" width="20%"/> </p>
+
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Meltem-Karaagac&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meltem-Karaagac&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
