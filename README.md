@@ -16,6 +16,7 @@ I prefer React & React Native for web/mobile front-end, Node.js & Django technol
 - 💬 Ask  me about anything that you want to learn
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meltem-karaagac/)
+_You can reach me, my email adress:  meltemkaraagac19@gmail.com
 ## Knowledge always in my scope !!! 
 
 ## 🚀 Skills
