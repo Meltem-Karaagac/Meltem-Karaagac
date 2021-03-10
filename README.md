@@ -5,9 +5,9 @@
 I prefer React & React Native for web/mobile front-end, Node.js & Django technologies for back-end development.
 <br/>
 
-🔭 I’m currently working on back-end development
+- I’m currently working on back-end development
 
-🌱 I’m currently learning Node.js | MongoDB | Django
+- I’m currently learning Node.js | MongoDB | Django
 
 🛠 Skills<br/>
 
@@ -17,7 +17,7 @@ I prefer React & React Native for web/mobile front-end, Node.js & Django technol
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meltem-karaagac/) <p align="left"> <img src="https://komarev.com/ghpvc/?username=Meltem-Karaagac" alt="visitor counter" width="20%"/> </p>
 
-- You can reach me, my email address: meltemkaragaac19@gmail.com
+- You can reach me, my email address: meltemkaraagac19@gmail.com
 ## Knowledge always in my scope !!! 
 ## 🚀 Skills
 <p>
