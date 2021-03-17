@@ -1,4 +1,4 @@
-## Hi there 👋  <h2> Meltem is here. </h2>
+## Hi there 👋  Meltem is here. 
 
 ### What I'm using? 🛠
 
