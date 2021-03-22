@@ -13,10 +13,9 @@ I prefer React & React Native for web/mobile front-end, Node.js & Django technol
 
 - 💬 Ask  me about anything that you want to learn
 
+-  You can reach me, my email address: meltemkaraagac19@gmail.com
+
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meltem-karaagac/) <p align="left"> <img src="https://komarev.com/ghpvc/?username=Meltem-Karaagac" alt="visitor counter" width="20%"/> </p>
-
-- You can reach me, my email address: meltemkaraagac19@gmail.com
-
 ## 🚀 Skills
 <p>
  <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>  
