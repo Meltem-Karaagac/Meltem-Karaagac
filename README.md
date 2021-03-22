@@ -9,8 +9,6 @@ I prefer React & React Native for web/mobile front-end, Node.js & Django technol
 
 - I’m currently learning React.js |  Express.js | Node.js | MongoDB
 
-🛠 Skills<br/>
-
 - HTML5, CSS3, JavaScript, React, React Native, Python, SQL, Node.js, Express.js, MongoDB, Django, Git, GitHub
 
 - 💬 Ask  me about anything that you want to learn
